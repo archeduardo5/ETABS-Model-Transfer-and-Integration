@@ -23,3 +23,9 @@ ETABSModelTransfer is a tool that converts the geometry of an ETABS model into a
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/ETABSModelTransfer.git
+
+
+![ETABSModelTransfer](https://github.com/user-attachments/assets/49b61459-cff6-4fb4-bcfc-1b90626c9162)
+
+
+   
