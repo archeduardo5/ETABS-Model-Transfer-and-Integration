@@ -1,8 +1,25 @@
 # ETABSModelTransfer
-Converts an ETABS Model geometry into a CSV file to allow easy import into other software such as Revit or Rhino
 
+ETABSModelTransfer is a tool that converts the geometry of an ETABS model into a CSV file. This conversion makes it easy to import the model into other software platforms such as Revit, Rhino, or other structural design tools. 
 
-## Video
+## Features
+- Converts ETABS model geometry to CSV format.
+- Allows seamless import into software like Revit, Rhino, or other compatible programs.
+- Simplifies the process of cross-platform model exchange.
 
-Watch [Youtube Video](https://www.youtube.com/watch?v=RYmr9pq0Kio) to see [ETABSModelTransfer](https://github.com/antoine-carpentier/ETABSModelTransfer) and [Revit-Etabs-Import](https://github.com/antoine-carpentier/Revit-Etabs-Import) working in tandem.
+## Usage
 
+1. **Export Geometry from ETABS**: 
+   - Run the ETABSModelTransfer script to export the model's geometry data.
+   
+2. **CSV File Generation**:
+   - The tool generates a CSV file containing the geometry data, such as nodes, beams, and elements.
+   
+3. **Import into Other Software**:
+   - Use the generated CSV file to easily import the model into applications like Revit, Rhino, or any other software that supports CSV import.
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/ETABSModelTransfer.git
